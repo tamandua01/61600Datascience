@@ -1,0 +1,3 @@
+En la carpeta TP se encuentra el Archivo principal. El mismo esta hecho en google Colab y funciona independiente de donde se use ya que toma la base original de la fuente original.
+Igualmente hay una copia de esta en la carpeta Datasets.
+Debido a la complejidad hay un segundo .ipynb para realizar el dataset. En el .ipynb principal se encuentra el link al segundo pero vale aclarar que solo tiene el proposito de limpieza y seleccion de la base principal en base a un archivo que explica la base original.
