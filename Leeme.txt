@@ -6,3 +6,6 @@ y seleccion de la base principal en base a un archivo que explica la base origin
 Los links son: 
 https://colab.research.google.com/drive/1fycMdSoU5DSfIjXkkcr4f1wnDka3_Z0_?usp=sharing
 https://colab.research.google.com/drive/1k_iYvFPBALUv31XEwnT6MCnU3Kjwc0op#scrollTo=UJBc4YDu7us3
+
+Al correrlo en jupyter hubo que instalar algunas librerias ya disponibles en colab. Para que en teoria funcione en culquier jupyter se agregaron las instalaciones de las diferentes librerias.
+Igualmente si se entra al link de Colab, tendra las instalaciones propias de colab solamente.
